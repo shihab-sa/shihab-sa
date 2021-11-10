@@ -1,9 +1,7 @@
 
-# whoami -- 
+# whoami -- @shihabahm_
 
-Lorem ipsum dolor sit amet consectetur adipisicing elit. Maxime mollitia,
-molestiae quas vel sint commodi repudiandae consequuntur voluptatum laborum
-numquam blanditiis harum quisquam eius sed odit fugiat
+Hi, i'm shihab... a junior software engineer at [internship ] i did briefly describe about myself in one scenario
 
 <br/>
 <br/>
