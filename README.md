@@ -5,8 +5,6 @@ interested in cyber security
 
 ## My values
 
-a man loving to 
-
 - Problem solving ability
 - understanding language[ JavaScript ] philosophy
 - honesty and trust
