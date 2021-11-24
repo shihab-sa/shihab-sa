@@ -16,6 +16,4 @@ interested in cyber security
 [![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/)
 [![twitter](https://img.shields.io/badge/twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/)
 
-
-
-![Main (1)](https://user-images.githubusercontent.com/54938486/143309461-48e920a6-e25a-4606-b218-0ba0bea0c252.png)
+![Main (2)](https://user-images.githubusercontent.com/54938486/143310276-79866558-99ec-478f-852f-5baf1d117e67.png)
