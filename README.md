@@ -1,12 +1,12 @@
 
 # <h1>whoami -- @shihabahm_😘</h1>
 Hi, I'm shihab - a junior software engineer at [intern] WORKING ON remotly... i did briefly describe about myself in one scenario ..🙂
-interested in cyber security
+
 
 ## My values
 
 - Problem solving ability
-- understanding language[ JavaScript, TypeScript , c++ ] philosophy
+- understanding language[ JavaScript, TypeScript ] philosophy
 - honesty and trust
 - Data Structure, Algorithm ,OOP
 
