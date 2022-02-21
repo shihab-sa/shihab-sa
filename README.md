@@ -18,7 +18,7 @@ Hi, I'm shihab - a junior software engineer at [intern] WORKING ON remotly... i 
   JavaScript
 ```
 
-| Front-End(Core Knw) |     
+| Front-End(Core) |     
 | :-------- | 
 | **HTML**, **CSS**, **SASS**, **JavaScript** , **DOM**|
 
