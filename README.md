@@ -18,9 +18,26 @@ Hi, I'm shihab - a junior software engineer at [intern] WORKING ON remotly... i 
   JavaScript
 ```
 
-| Front-End(Core) |     
+| Front-End( Core ) |     
 | :-------- | 
 | **HTML**, **CSS**, **SASS**, **JavaScript** , **DOM**|
+
+
+
+
+#### Get all items
+
+```http
+  Front-End Framework and Library
+```
+
+| CSS | JavaScript    |            
+| :-------- | :------- | 
+| **Tailwind CSS** ,`Bootstrap` |**React Js**,` Redux` 
+
+
+
+
 
 
 
