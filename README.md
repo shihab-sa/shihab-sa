@@ -3,7 +3,10 @@
 ###
 
 <p align="left">
-Passionate and dedicated #Software Engineer with expertise in Front-End, Mobile Appdevelopment (React Native). and Back-End development as needed. I have strong foundations in Problem Solving, JavaScript/TypeScript, DSA. I have solid Foundation of Computer Science.
+I'm Shihab_ Passionate and dedicated Software Engineer with expertise in  { Front-End,Mobile Appdevelopment (React Native). and Back-End } development as needed.
+I have strong foundations in Problem Solving,
+"Language Philosophy: C++, JavaScript, and TypeScript."
+I have solid Foundation of Computer Science.
 </p>
 
 ###
