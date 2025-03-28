@@ -15,7 +15,7 @@ I have solid Foundation of Computer Science.
 
 ###
 
-<p align="left">✨ Creating bugs since ...<br>📚 I'm currently learning ...<br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
+<p align="left"> 💼Current jobs Remotely.<br>📚 I'm currently learning JavaScript ecosystems. <br>🎯 Goals: ...<br>🎲 Fun fact: ...</p>
 
 ###
 
